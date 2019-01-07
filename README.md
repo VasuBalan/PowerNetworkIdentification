@@ -9,4 +9,4 @@ In this Folder two files are there
 2) comb.c is a file, where the combination of graph.c and pso15.c to
 incorporate the two objectives such as (optimal tie switch position and load flow on single program)
 
-This works relates to the paper entitled as "Reliability improvement of reconfigurable distribution system using GA and PSO" by me and my supervisor Late Prof. A. K. Sinha. 
+This works relates to the paper entitled as "Reliability improvement of reconfigurable distribution system using GA and PSO" by me and Prof. A. K. Sinha. 
